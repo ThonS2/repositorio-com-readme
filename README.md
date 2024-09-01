@@ -8,3 +8,7 @@ um projeto de teste com um arquivo README 🔥
 - GML
 
 ## Como utilizar
+D,A = Direita, esquerda
+W,S = Para cima, para baixo
+Space = Pular 
+Mouse 1 = Ataque
